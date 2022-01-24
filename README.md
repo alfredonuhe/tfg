@@ -1,4 +1,6 @@
-# Final Computer Science Engineering Degree Project (TFG)
+# Bachelor Thesis (TFG) #
+## Computer Science Engineering Degree ##
+### Description ###
 
 This repository contains the code used to produce the results for the bacheor thesis "Classification of Noise Sources in LIGO Gravitational Wave Observations using DeepNeural Networks and Model Explainability Analysis". For detailed information about the project and results, please read the [thesis](https://www.overleaf.com/read/mfpcmzwrhpfd).
 
